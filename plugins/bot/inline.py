@@ -49,7 +49,7 @@ async def search(client, query):
                 title="Deploy Your Own Radio Player",
                 thumb_url="https://telegra.ph/file/7f4d05ca8124766d82b04.jpg",
                 photo_url="https://telegra.ph/file/7f4d05ca8124766d82b04.jpg",
-                caption=f"{REPLY_MESSAGE}\n\n<b>Powered By : \n@StarterChannel | @Harshu_xD 👑</b>",
+                caption=f"{REPLY_MESSAGE}\n\n<b>Powered By : \n❤️Thanks To ©️AsmSafone | @Harshu_xD 👑</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
